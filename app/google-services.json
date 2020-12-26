@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "663473476062",
+    "project_id": "atomloginapp",
+    "storage_bucket": "atomloginapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663473476062:android:27a77406beae6bcf0c4d4f",
+        "android_client_info": {
+          "package_name": "com.example.atomloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663473476062-qresen8l2luhm4rko55gfb6j6g4i1nie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JAaAPKmeDx-uhuDQXfe6wM1rMp5sTg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663473476062-qresen8l2luhm4rko55gfb6j6g4i1nie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
