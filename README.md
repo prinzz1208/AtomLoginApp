@@ -6,7 +6,8 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="screenshots/splash_screen.jpg" width="270" height="480"/> Splash Screen | <img src="screenshots/login_page.jpg" width="270" height="480"/> Login Screen | <img src="screenshots/loading_services.jpg" width="270" height="480"/> Loading Services | <img src="screenshots/google_sign_in.jpg" width="270" height="480"/> Google Sign-In  |  <img src="screenshots/registration.jpg" width="270" height="480"/> Registration Screen | <img src="screenshots/home_page.jpg" width="270" height="480"/> Home Screen |
+| <img src="screenshots/splash_screen.jpg" width="270" height="480"/> Splash Screen | <img src="screenshots/login_page.jpg" width="270" height="480"/> Login Screen | <img src="screenshots/loading_services.jpg" width="270" height="480"/> Loading Services 
+| <img src="screenshots/google_sign_in.jpg" width="270" height="480"/> Google Sign-In  |  <img src="screenshots/registration.jpg" width="270" height="480"/> Registration Screen | <img src="screenshots/home_page.jpg" width="270" height="480"/> Home Screen |
 
 
 
